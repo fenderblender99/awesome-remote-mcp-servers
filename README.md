@@ -2792,6 +2792,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Antevo Trademark](https://antevo.ch/trademark/) `https://trademark.antevo.ch/mcp`
   [![Antevo Trademark MCP connector](https://glama.ai/mcp/connectors/ch.antevo/trademark/badges/score.svg)](https://glama.ai/mcp/connectors/ch.antevo/trademark)
   🔓 - Checks a brand name across 50+ national and regional trademark registers, with each office's opposition deadline.
+- [Checkbox](https://checkbox.site) `https://app.checkbox.site/mcp`
+  [![Checkbox MCP connector](https://glama.ai/mcp/connectors/site.checkbox/checkbox/badges/score.svg)](https://glama.ai/mcp/connectors/site.checkbox/checkbox)
+  🔐 - Checks subscription checkouts, renewal emails and cancellation flows against U.S. automatic-renewal laws (ROSCA, California, New York and other states) and returns the exact fix. Free.
+  
 - [Cheap NY Publication](https://cheapnypublication.com/ai) `https://cheapnypublication.com/mcp`
   [![Cheap NY Publication MCP connector](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc/badges/score.svg)](https://glama.ai/mcp/connectors/com.cheapnypublication/ny-llc)
   🔓 - New York LLC lookup from the state register: publication deadline, county and price, plus filing quotes.
